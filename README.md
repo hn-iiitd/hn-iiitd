@@ -1,3 +1,6 @@
+<div align="center">
+  <img alt="Coding" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"> 
+</div>
 <h1 align="center">Hi 👋, I'm Harsh Nangia</h1>
 <h3 align="center">An aspiring Electronics student from Indraprastha Institute of Information Technology - Delhi (IIIT-D). Passionate about DSA and problem solving striving to excel in software development.</h3>
 
