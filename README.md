@@ -2,7 +2,7 @@
   <img alt="Coding" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"> 
 </div>
 <h1 align="center">Hi 👋, I'm Harsh Nangia</h1>
-<h3 align="center">An aspiring Electronics student from Indraprastha Institute of Information Technology - Delhi (IIIT-D). Passionate about DSA and problem solving striving to excel in software development.</h3>
+<h3 align="center">An aspiring Electronics student from Indraprastha Institute of Information Technology - Delhi (IIIT-D). Passionate about DSA and problem solving striving to excel in Hardware - Software co-design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hn-iiitd&label=Profile%20views&color=0e75b6&style=flat" alt="hn-iiitd" /> </p>
 
