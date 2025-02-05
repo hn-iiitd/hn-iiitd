@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hn-iiitd&label=Profile%20views&color=0e75b6&style=flat" alt="hn-iiitd" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Natural Language Processing**
 
-- 💬 Ask me about **Algorithms, Data Structures, Operating Systems**
+- 💬 Ask me about **Machine Learning, Algorithms, Data Structures, Operating Systems**
 
 - 📫 How to reach me **harsh22199@iiitd.ac.in**
 
